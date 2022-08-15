@@ -7,6 +7,6 @@ Das neue Fahrzeug wird statt mit einen Fischertechnik TXT Controller jetzt mit e
 
 stand 12.08.2022
 ---
-Der Parkur ohne objekte wurde Gelöst.
+Der Parkur ohne objekte wurde in beide Richtungen Gelöst...
 
 Erstes Umfahren Funktionirt...
