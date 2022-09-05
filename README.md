@@ -3,7 +3,7 @@
 stand 08.08.2022
 ---
 Einleitung:
-Für die deutsche Meisterschaft haben wir und dufür entschieden ein neues besseres Fahrzeug zu bauen. Das neue Fahrzeug für die Deutsche Meisterschaft wird statt mit einen Fischertechnik TXT Controller jetzt mit einem Arduino Uno gesteuert. Es besteht aber trotzdem noch aus Fischertechnik Bausteinen. HBrücke...Motor...Servo...Ultraschall...Pixy...Spannungsanzeige...Taster...
+Für die deutsche Meisterschaft haben wir und dafür entschieden ein neues besseres Fahrzeug zu bauen. Das neue Fahrzeug wird statt mit einen Fischertechnik TXT Controller jetzt mit einem Arduino Uno gesteuert. Es besteht aber trotzdem noch aus Fischertechnik Bausteinen. HBrücke...Motor...Servo...Ultraschall...Pixy...Spannungsanzeige...Taster...
 
 stand 12.08.2022
 ---
