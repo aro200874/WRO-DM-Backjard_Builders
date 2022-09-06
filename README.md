@@ -3,14 +3,17 @@
 stand 08.08.2022
 ---
 Einleitung:
-Für die deutsche Meisterschaft haben wir und dafür entschieden ein neues besseres Fahrzeug zu bauen. Das neue Fahrzeug wird statt mit einen Fischertechnik TXT Controller jetzt mit einem Arduino Uno gesteuert. Es besteht aber trotzdem noch aus Fischertechnik Bausteinen. HBrücke...Motor...Servo...Ultraschall...Pixy...Spannungsanzeige...Taster...
+Für die deutsche Meisterschaft haben wir und dafür entschieden ein neues besseres Fahrzeug zu bauen. Das neue Fahrzeug wird statt mit einen Fischertechnik TXT Controller jetzt mit einem Arduino Uno gesteuert. Es besteht aber trotzdem noch aus Fischertechnik Bausteinen.
+
+verbaut sind:
+Arduino uno zur steuerung des Fahrzeugs
 
 stand 12.08.2022
 ---
-Der Parkur ohne objekte wurde in beide Richtungen Gelöst...
+Der Parkur ohne objekte wurde in beide Richtungen Gelöst...         wie?
 
-Erstes Umfahren Funktionirt...
+Erstes Umfahren Funktionirt...          wie?
 
 stand 18.08.2022
 
-Unfahren mit Ultraschall Uhrzeigersinn...
+Unfahren mit Ultraschall Uhrzeigersinn...       wie?
