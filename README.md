@@ -10,10 +10,10 @@ Arduino uno zur steuerung des Fahrzeugs
 
 stand 12.08.2022
 ---
-Der Parkur ohne objekte wurde in beide Richtungen Gelöst...         wie?
+Der Parkur ohne objekte wurde in beide Richtungen Gelöst...
 
-Erstes Umfahren Funktionirt...          wie?
+Erstes Umfahren Funktionirt...
 
 stand 18.08.2022
 
-Unfahren mit Ultraschall Uhrzeigersinn...       wie?
+Unfahren mit Ultraschall Uhrzeigersinn...
