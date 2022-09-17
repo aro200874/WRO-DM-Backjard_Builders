@@ -1,13 +1,14 @@
 # WRO-DM-Backjard_Builders
 
-stand 08.08.2022
+
 ---
 Einleitung:
 Für die deutsche Meisterschaft haben wir und dafür entschieden ein neues besseres Fahrzeug zu bauen. Das neue Fahrzeug wird statt mit einen Fischertechnik TXT Controller jetzt mit einem Arduino Uno gesteuert. Es besteht aber trotzdem noch aus Fischertechnik Bausteinen. Als Antriebsmotor benutzen wier einen schwartzen encodermotor von Fischertechnik. Dieser wird von der H-Brücke l298n angesteuert. Die H-Brücke versorgt auserdem mit Hilfe des intrekrirtrm Spanungswandlers das gesamte fahrzeug mit 5v Spanung. Zur Lenkung benutzen wir einen Handelsüblichen Servomotor. Links und Rechts besitzt das Fahrzeug je einen HC-SR04 Ultraschallsensor. Als kamere benutzen wir eine pixy v2.1 und als Akku einen Fischertechnik NiMH Akku mit 8,4 V und 1800mAh.
 
-
+---
 
 Programme:
+---
 Wir haben zwei Programme geschrieben um die zwei Aufgaben so gut wie möglich zu bewältigen. 
 
 Das erste Programm ist dazu da um das Spielfeld zu umfahren ohne Hindernisse und so schnell wie möglich. Es ist so aufgebaut: 
